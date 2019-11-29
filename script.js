@@ -91,5 +91,5 @@ remakeButton.addEventListener("click", function () {
      container.innerHTML = "";
      fillBoard(numberOfSquares);
 })
-const container = document.getElementById("container");
+const container = document.getElementById("container-screen");
 fillBoard(16);
