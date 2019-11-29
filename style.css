@@ -1,0 +1,21 @@
+.block{
+     display: inline-block;
+     width: 25px;
+     height: 25px;
+     content: "";
+     box-sizing: border-box;
+     margin: 0 0;
+     padding: 0 0;
+     color: white;
+     border: 1px solid black;
+     border-right-width: 0;
+     border-bottom-width: 0;
+     font-size: 0;
+}
+
+.row{
+
+     margin: 0;
+     padding: 0;
+     font-size: 0;
+}
